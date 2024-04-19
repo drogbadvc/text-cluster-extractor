@@ -1,0 +1,11 @@
+streamlit
+plotly
+fastapi
+uvicorn
+sentence_transformers
+umap-learn
+hdbscan
+bs4
+aiocache
+lxml
+trafilatura
